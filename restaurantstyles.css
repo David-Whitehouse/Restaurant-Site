@@ -1,0 +1,67 @@
+/*
+Creator: David Whitehouse
+Date Created: 8/8/2019
+Date Last Modified: 8/8/2019
+*/
+
+body {
+	background-color: #d2d7df;
+	font-family: cursive, arial, helvetica, sans-serif;
+	color: #22333b;
+	max-width: 1100px;
+	margin: 0 auto;
+}
+
+header, footer {
+	background-color: #22333b;
+	color: #bdbbb0;
+	text-align: center;
+	padding: 30px 10px 40px 10px;
+}
+
+nav {
+    border-top: thin #5b7d87 solid;
+    border-bottom: thin #5b7d87 solid;
+    padding-top: 12px;
+    padding-bottom: 12px;
+	text-align:center;
+}
+
+nav a {
+	width:25%;
+}
+
+nav .btn {
+    background-color: #22333b;
+	color: #bdbbb0; 
+	padding-right: 20px;
+	padding-left: 20px;
+}
+nav {
+	
+	
+}
+
+header {
+	font-weight: bold;
+	font-size: 2em;
+}
+
+a:link {
+  color: #8a897c;
+}
+
+a:visited {
+  color: #bdbbb0;
+}
+
+a:hover {
+  font-weight: bold;
+  color: #8a897c;
+  font-family: cursive;
+}
+
+a:active {
+  font-weight: bold;
+  text-decoration: none;
+}
